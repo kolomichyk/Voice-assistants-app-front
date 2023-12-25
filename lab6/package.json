@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "@types/js-cookie": "^3.0.6",
+    "js-cookie": "^3.0.5",
+    "react-redux": "^9.0.4",
+    "redux": "^5.0.1"
+  }
+}
